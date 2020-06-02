@@ -1,0 +1,18 @@
+C:\Users\gorba\Exercism\csharp\ExercismHelloWorld\ExercismHelloWorld\bin\Debug\netcoreapp3.1\ExercismHelloWorld.deps.json
+C:\Users\gorba\Exercism\csharp\ExercismHelloWorld\ExercismHelloWorld\bin\Debug\netcoreapp3.1\ExercismHelloWorld.dll
+C:\Users\gorba\Exercism\csharp\ExercismHelloWorld\ExercismHelloWorld\bin\Debug\netcoreapp3.1\ExercismHelloWorld.pdb
+C:\Users\gorba\Exercism\csharp\ExercismHelloWorld\ExercismHelloWorld\obj\Debug\netcoreapp3.1\ExercismHelloWorld.csprojAssemblyReference.cache
+C:\Users\gorba\Exercism\csharp\ExercismHelloWorld\ExercismHelloWorld\obj\Debug\netcoreapp3.1\ExercismHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\gorba\Exercism\csharp\ExercismHelloWorld\ExercismHelloWorld\obj\Debug\netcoreapp3.1\ExercismHelloWorld.AssemblyInfoInputs.cache
+C:\Users\gorba\Exercism\csharp\ExercismHelloWorld\ExercismHelloWorld\obj\Debug\netcoreapp3.1\ExercismHelloWorld.AssemblyInfo.cs
+C:\Users\gorba\Exercism\csharp\ExercismHelloWorld\ExercismHelloWorld\obj\Debug\netcoreapp3.1\ExercismHelloWorld.dll
+C:\Users\gorba\Exercism\csharp\ExercismHelloWorld\ExercismHelloWorld\obj\Debug\netcoreapp3.1\ExercismHelloWorld.pdb
+D:\GIT Repo\Exercism\ExercismHelloWorld\ExercismHelloWorld\bin\Debug\netcoreapp3.1\ExercismHelloWorld.deps.json
+D:\GIT Repo\Exercism\ExercismHelloWorld\ExercismHelloWorld\bin\Debug\netcoreapp3.1\ExercismHelloWorld.dll
+D:\GIT Repo\Exercism\ExercismHelloWorld\ExercismHelloWorld\bin\Debug\netcoreapp3.1\ExercismHelloWorld.pdb
+D:\GIT Repo\Exercism\ExercismHelloWorld\ExercismHelloWorld\obj\Debug\netcoreapp3.1\ExercismHelloWorld.csprojAssemblyReference.cache
+D:\GIT Repo\Exercism\ExercismHelloWorld\ExercismHelloWorld\obj\Debug\netcoreapp3.1\ExercismHelloWorld.csproj.CoreCompileInputs.cache
+D:\GIT Repo\Exercism\ExercismHelloWorld\ExercismHelloWorld\obj\Debug\netcoreapp3.1\ExercismHelloWorld.AssemblyInfoInputs.cache
+D:\GIT Repo\Exercism\ExercismHelloWorld\ExercismHelloWorld\obj\Debug\netcoreapp3.1\ExercismHelloWorld.AssemblyInfo.cs
+D:\GIT Repo\Exercism\ExercismHelloWorld\ExercismHelloWorld\obj\Debug\netcoreapp3.1\ExercismHelloWorld.dll
+D:\GIT Repo\Exercism\ExercismHelloWorld\ExercismHelloWorld\obj\Debug\netcoreapp3.1\ExercismHelloWorld.pdb
